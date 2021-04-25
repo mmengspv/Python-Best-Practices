@@ -1,0 +1,5 @@
+4.(Python specific) In Python, what is the difference between else and finally in exception handling?
+
+answer: 
+else will execute if exception didn't occur
+finally will execute after try, expect even though there is an error or not
